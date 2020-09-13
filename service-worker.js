@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GestIA-Webdemo/precache-manifest.0fb9b33fd90b4d9b2ae5a44a10b1454c.js"
+  "/GestIA-Webdemo/precache-manifest.f6b249e1573b0d0b55beac13d1fdadc3.js"
 );
 
 self.addEventListener('message', (event) => {
