@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/GestIA-Webdemo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/GestIA-Webdemo/static/js/main.c36830b4.chunk.js",
-    "main.js.map": "/GestIA-Webdemo/static/js/main.c36830b4.chunk.js.map",
+    "main.css": "/GestIA-Webdemo/static/css/main.65a6af82.chunk.css",
+    "main.js": "/GestIA-Webdemo/static/js/main.599f6ab1.chunk.js",
+    "main.js.map": "/GestIA-Webdemo/static/js/main.599f6ab1.chunk.js.map",
     "runtime-main.js": "/GestIA-Webdemo/static/js/runtime-main.5334eb19.js",
     "runtime-main.js.map": "/GestIA-Webdemo/static/js/runtime-main.5334eb19.js.map",
-    "static/js/2.947cd1ff.chunk.js": "/GestIA-Webdemo/static/js/2.947cd1ff.chunk.js",
-    "static/js/2.947cd1ff.chunk.js.map": "/GestIA-Webdemo/static/js/2.947cd1ff.chunk.js.map",
+    "static/js/2.a23894df.chunk.js": "/GestIA-Webdemo/static/js/2.a23894df.chunk.js",
+    "static/js/2.a23894df.chunk.js.map": "/GestIA-Webdemo/static/js/2.a23894df.chunk.js.map",
     "index.html": "/GestIA-Webdemo/index.html",
-    "precache-manifest.b4602496dd0617592e7f0124540fa79f.js": "/GestIA-Webdemo/precache-manifest.b4602496dd0617592e7f0124540fa79f.js",
+    "precache-manifest.0fb9b33fd90b4d9b2ae5a44a10b1454c.js": "/GestIA-Webdemo/precache-manifest.0fb9b33fd90b4d9b2ae5a44a10b1454c.js",
     "service-worker.js": "/GestIA-Webdemo/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/GestIA-Webdemo/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.947cd1ff.chunk.js.LICENSE.txt": "/GestIA-Webdemo/static/js/2.947cd1ff.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/GestIA-Webdemo/static/media/logo.5d5d9eef.svg"
+    "static/css/main.65a6af82.chunk.css.map": "/GestIA-Webdemo/static/css/main.65a6af82.chunk.css.map",
+    "static/js/2.a23894df.chunk.js.LICENSE.txt": "/GestIA-Webdemo/static/js/2.a23894df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5334eb19.js",
-    "static/js/2.947cd1ff.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c36830b4.chunk.js"
+    "static/js/2.a23894df.chunk.js",
+    "static/css/main.65a6af82.chunk.css",
+    "static/js/main.599f6ab1.chunk.js"
   ]
 }
