@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ee74f71894e085bffb930ac53abace9",
+    "revision": "34f6fec6a634c903ef57642956669be3",
     "url": "/GestIA-Webdemo/index.html"
   },
   {
-    "revision": "746a62aee4b5a5acb68c",
+    "revision": "af21e3ad724d83c251e9",
     "url": "/GestIA-Webdemo/static/css/main.65a6af82.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GestIA-Webdemo/static/js/2.a23894df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "746a62aee4b5a5acb68c",
-    "url": "/GestIA-Webdemo/static/js/main.599f6ab1.chunk.js"
+    "revision": "af21e3ad724d83c251e9",
+    "url": "/GestIA-Webdemo/static/js/main.87320e6a.chunk.js"
   },
   {
     "revision": "ca6c01e042739340430d",
