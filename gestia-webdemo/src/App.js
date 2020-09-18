@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import WizardActor from './game/components/actor'
+import WizardActor from './game/components/wizard-actor'
 import GitHubForkRibbon from 'react-github-fork-ribbon'
 import './App.css'
 import Webcam from 'react-webcam'
@@ -11,7 +11,6 @@ const webcamWidth = 400
 
 class App extends Component {
     render() {
-        /*  NOTE: remove GestIA-Webdemo url prefix for prod  */
         return [
             <GitHubForkRibbon
                 position="right"
