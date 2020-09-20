@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/GestIA-Webdemo/static/css/main.0e9b6367.chunk.css",
-    "main.js": "/GestIA-Webdemo/static/js/main.c1976915.chunk.js",
-    "main.js.map": "/GestIA-Webdemo/static/js/main.c1976915.chunk.js.map",
+    "main.css": "/GestIA-Webdemo/static/css/main.474e383c.chunk.css",
+    "main.js": "/GestIA-Webdemo/static/js/main.e62af947.chunk.js",
+    "main.js.map": "/GestIA-Webdemo/static/js/main.e62af947.chunk.js.map",
     "runtime-main.js": "/GestIA-Webdemo/static/js/runtime-main.5334eb19.js",
     "runtime-main.js.map": "/GestIA-Webdemo/static/js/runtime-main.5334eb19.js.map",
     "static/js/2.bd5b7a9c.chunk.js": "/GestIA-Webdemo/static/js/2.bd5b7a9c.chunk.js",
     "static/js/2.bd5b7a9c.chunk.js.map": "/GestIA-Webdemo/static/js/2.bd5b7a9c.chunk.js.map",
     "index.html": "/GestIA-Webdemo/index.html",
-    "precache-manifest.bc4e5b315e758e1485aa08fc7330d3db.js": "/GestIA-Webdemo/precache-manifest.bc4e5b315e758e1485aa08fc7330d3db.js",
+    "precache-manifest.ace0d55ecc9deb68df70edf1f56fc942.js": "/GestIA-Webdemo/precache-manifest.ace0d55ecc9deb68df70edf1f56fc942.js",
     "service-worker.js": "/GestIA-Webdemo/service-worker.js",
-    "static/css/main.0e9b6367.chunk.css.map": "/GestIA-Webdemo/static/css/main.0e9b6367.chunk.css.map",
+    "static/css/main.474e383c.chunk.css.map": "/GestIA-Webdemo/static/css/main.474e383c.chunk.css.map",
     "static/js/2.bd5b7a9c.chunk.js.LICENSE.txt": "/GestIA-Webdemo/static/js/2.bd5b7a9c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5334eb19.js",
     "static/js/2.bd5b7a9c.chunk.js",
-    "static/css/main.0e9b6367.chunk.css",
-    "static/js/main.c1976915.chunk.js"
+    "static/css/main.474e383c.chunk.css",
+    "static/js/main.e62af947.chunk.js"
   ]
 }
