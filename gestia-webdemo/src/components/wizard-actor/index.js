@@ -1,7 +1,6 @@
 import React from 'react'
 import Sprite from '../sprite'
-import useKeyPress from '../../../hooks/use-key-press'
-import AnimationTimer from '../../../hooks/animation-timer'
+import AnimationTimer from '../../hooks/animation-timer'
 import {useState} from 'react'
 
 export default function WizardActor() {
@@ -20,11 +19,6 @@ export default function WizardActor() {
     }
 
     AnimationTimer(actorIdleAnimation, idleTimeout)
-
-    useKeyPress(e => {
-        const dir = e.key.replace('Arrow', '').toLowerCase()
-        console.log(dir)
-    })
 
     return (
         <Sprite

@@ -1,9 +1,9 @@
 import React, {Component} from 'react'
-import WizardActor from './game/components/wizard-actor'
+import WizardActor from './components/wizard-actor'
 import GitHubForkRibbon from 'react-github-fork-ribbon'
 import './App.css'
 import Webcam from 'react-webcam'
-import InstructionsBox from './game/components/instructions-box'
+import InstructionsBox from './components/instructions-box'
 
 const webcamImageHeight = 600
 const webcamImageWidth = 600
