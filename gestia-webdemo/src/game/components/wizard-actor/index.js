@@ -12,7 +12,7 @@ export default function WizardActor() {
     const h = 190,
         w = 231
     const totalStepsIdleAnimation = 6
-    const idleTimeout = 250
+    const idleTimeout = 200
 
     const actorIdleAnimation = () => {
         setAnimationStep(prev => (prev + 1) % totalStepsIdleAnimation)

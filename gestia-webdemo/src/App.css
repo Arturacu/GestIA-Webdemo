@@ -1,8 +1,39 @@
-html,
-body {
-    height: 100vh;
+html {
     background: linear-gradient(to bottom, #ff9c2f, #d42525);
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 10px solid;
+    border-color: ghostwhite;
+}
+body {
+    background: linear-gradient(to bottom, #ff9c2f, #d42525);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.zone-container {
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.header {
+    padding: 2%;
+    text-align: center;
+}
+
+h1 {
+    font-family: Bitter;
+    font-size: 60px;
+    font-style: normal;
+    font-variant: normal;
+    color: whitesmoke;
+    font-weight: bold;
+    line-height: 93.1px;
+}
+
+div.instructions {
+    margin-bottom: 2%;
+    margin-top: 3%;
 }

@@ -3,6 +3,7 @@ import WizardActor from './game/components/wizard-actor'
 import GitHubForkRibbon from 'react-github-fork-ribbon'
 import './App.css'
 import Webcam from 'react-webcam'
+import InstructionsBox from './game/components/instructions-box'
 
 const webcamImageHeight = 600
 const webcamImageWidth = 600
@@ -12,6 +13,9 @@ const webcamWidth = 400
 class App extends Component {
     render() {
         return [
+            <div class={'header'}>
+                <h1>GestIA Webdemo</h1>
+            </div>,
             <GitHubForkRibbon
                 position="right"
                 color="black"
@@ -36,6 +40,9 @@ class App extends Component {
                     }}
                 />
                 <WizardActor />
+            </div>,
+            <div className="instructions">
+                <InstructionsBox />
             </div>,
         ]
     }
