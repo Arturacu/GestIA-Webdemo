@@ -7,7 +7,7 @@ export default function WizardActor() {
     const [animationStep, setAnimationStep] = useState(0)
     const [animationState, setAnimationState] = useState('Idle.png')
 
-    const spriteFolder = 'sprites/wizard/'
+    const spriteFolder = 'GestIA-Webdemo/sprites/wizard/'
     const h = 190,
         w = 231
     const totalStepsIdleAnimation = 6

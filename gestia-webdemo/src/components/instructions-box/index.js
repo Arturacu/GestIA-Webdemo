@@ -1,7 +1,7 @@
 import React, {useEffect} from 'react'
 
 export default function InstructionsBox() {
-    const handGesturesPath = 'hand-gestures/'
+    const handGesturesPath = 'GestIA-Webdemo/hand-gestures/'
 
     const openPalm = handGesturesPath.concat('open-palm.png')
     const daddyFinger = handGesturesPath.concat('daddy-finger.png')
